@@ -1,0 +1,32 @@
+#status{
+    margin: 8px;
+}
+#start,#restart{
+    font-size: 22px;
+}
+#heading{
+    margin: 0px;
+    text-align: left;
+    width: 100%;
+}
+#heading h1{
+    display: inline;
+}
+#heading button{
+    float: right;
+    font-size: 22px;
+    border: 1px solid wheat;
+}
+#footer{
+    background-color: whitesmoke;
+    font-size: 22px;
+    color: black;
+    margin: 0px;
+    bottom: 0;
+    width: 100%;
+    line-height: 2;
+}
+canvas{
+    border: 5px solid black;
+    border-radius: 20px;
+}
